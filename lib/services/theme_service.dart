@@ -110,7 +110,7 @@ class ThemeService {
         elevation: 0,
         centerTitle: true,
       ),
-      cardTheme: const CardTheme(
+      cardTheme: const CardThemeData(
         color: lightCardBackground,
         elevation: 2,
         shape: RoundedRectangleBorder(
@@ -169,7 +169,7 @@ class ThemeService {
         elevation: 0,
         centerTitle: true,
       ),
-      cardTheme: const CardTheme(
+      cardTheme: const CardThemeData(
         color: darkCardBackground,
         elevation: 2,
         shape: RoundedRectangleBorder(
